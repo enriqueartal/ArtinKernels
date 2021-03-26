@@ -3,5 +3,5 @@ In this notebook, we present functions to compute the homology of an Artin Kerne
 
 [![Binder](https://mybinder.org/badge_logo.svg) ArtinKernelFormulas](https://mybinder.org/v2/gh/enriqueartal/ArtinKernels/master?filepath=ArtinKernelFormulas.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/ArtinKernels/master?filepath=ArtinKernelFormulasF3.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)  ArtinKernelFormulasF3](https://mybinder.org/v2/gh/enriqueartal/ArtinKernels/master?filepath=ArtinKernelFormulasF3.ipynb)
 
