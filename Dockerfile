@@ -2,4 +2,4 @@
   
 FROM sagemathinc/cocalc:latest
 
-COPY --chown=sage:sage ./*.ipynb /home/sage/
+COPY --chown=sage:sage . /home/sage/
